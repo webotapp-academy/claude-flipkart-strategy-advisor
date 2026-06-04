@@ -79,17 +79,8 @@ This skill activates when the user says things like:
 
 ---
 
-## Webhook
+ 
 
-Form data is sent to:
-```
-POST https://hook.webotapp.com/flipkart-strategy-leads
-```
-
-Payload includes all form fields + `source` and `submitted_at` timestamp.
-To use your own webhook, update the URL in `SKILL.md` under the **Data Submission** section.
-
----
 
 ## Built By
 
